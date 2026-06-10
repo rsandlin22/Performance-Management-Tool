@@ -31,5 +31,5 @@ app.post('/api/data', (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`Innovation Tracker running on port ${PORT}`);
+  console.log(`IDOE Team Performance Dashboard running on port ${PORT}`);
 });
